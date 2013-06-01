@@ -7,7 +7,7 @@ Clean install of ScriptDev2
 Download MaNGOS (using git clone)
 ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
 
-See their http://getmangos.com/community[forum] or http://getmangos.com/wiki[wiki] for more details
+See their http://getmangos.co.uk/community[forum] or http://getmangos.co.uk/wiki[wiki] for more details
 
 Get the sources
 ~~~~~~~~~~~~~~~
